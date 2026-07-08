@@ -1,0 +1,15 @@
+# Python bytecode (Automatically generated)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code Workspace files
+.vscode/
+*.code-workspace
+
+# Environment files (Sensitive data)
+.env
+.venv
+env/
+venv/
